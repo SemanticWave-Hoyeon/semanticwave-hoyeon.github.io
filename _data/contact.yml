@@ -1,8 +1,9 @@
 #  The contact options.
 
-- type: email
+- type: Email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  url: "mailto:hoyeoncho@semanticwave.org"
+  noblank: true
 
 - type: rss
   icon: "fas fa-rss"
