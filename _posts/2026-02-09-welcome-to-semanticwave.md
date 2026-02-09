@@ -1,7 +1,7 @@
 ---
 title: "Launching SemanticWave: Where Maritime Expertise Meets AI Intelligence"
 description: "A new journey to redefine maritime data through Semantic Intelligence and Deep Learning."
-author: SemanticWave
+author: Hoyeon Cho
 date: 2026-02-09 12:00:00 +0900
 categories: [News, Announcement]
 tags: [semanticwave, startup, maritime-ai, s-100]

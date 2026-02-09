@@ -1,7 +1,7 @@
 ---
 title: "Research Portfolio"
 description: "A comprehensive overview of SemanticWave's research — journal publications, conference presentations, national projects, and master's thesis."
-author: SemanticWave
+author: Hoyeon Cho
 date: 2026-02-09 11:00:00 +0900
 categories: [Research, Portfolio]
 tags: [publications, scie, navtex, s-100, maritime-ai, autonomous-ship]
